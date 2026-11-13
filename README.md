@@ -2,6 +2,8 @@
 
 <h2 align="center">Full Stack AI Developer</h2>
 
+<p align="center"><i>Building full stack applications today, and adding AI to make them smarter tomorrow.</i></p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+AI+Developer;MERN+Stack+%2B+AI+Applications;Building+Smart+Full+Stack+Software;388%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
 </p>
@@ -26,6 +28,25 @@ B.Tech Computer Science & AI student at Noida Institute of Engineering & Technol
 
 ---
 
+## 💡 What I'm Building & Where I'm Headed
+
+**How I build:** I start with a clean, mobile-first interface (React + Tailwind CSS), keep dependencies minimal, and connect it to a Node.js and Express backend. I deploy on free tiers (Vercel, Render) so every project is live and demoable, not just code in a repo.
+
+**Where AI comes in:** I'm learning to add intelligence to full stack apps, such as chatbots, NLP, and LLM features, so the software I build can understand users instead of only storing data. My first steps were the translation app and FAQ chatbot from my internship.
+
+**What I enjoy:**
+- 🎨 Designing clean, good-looking interfaces that work well on phones
+- 🛠️ Learning by building real, working projects instead of only watching tutorials
+- 🧩 Solving DSA problems every day and staying consistent
+- 🚀 Shipping projects that people can open and try in a browser
+
+**My goals:**
+- Build and deploy a full stack + AI project with LLM features (LangChain, RAG)
+- Keep growing my MERN stack depth and backend skills
+- Become a Full Stack AI Developer who builds intelligent, practical software
+
+---
+
 ## ⚙️ Tech Stack
 
 **Languages**
@@ -43,13 +64,13 @@ B.Tech Computer Science & AI student at Noida Institute of Engineering & Technol
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Databases**
@@ -89,9 +110,9 @@ Multilingual translation app built during my CodeAlpha AI internship. Frontend o
 Food-delivery FAQ chatbot that matches user questions to 400+ intent patterns using TF-IDF vectors and cosine similarity.
 **Stack:** Python · Flask · TF-IDF · NLP
 
-### ✅ TaskFlow
-Full CRUD task management app with deployment setup (Gunicorn, WhiteNoise, Render).
-**Stack:** Django
+### ✅ To-Do List App
+CRUD app to create, view, update, and delete tasks. Built to practice Node.js and Express with server-rendered EJS templates.
+**Stack:** Node.js · Express · EJS
 
 ---
 
