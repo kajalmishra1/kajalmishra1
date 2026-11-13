@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Kajal Mishra 👋</h1>
 
+<h3 align="center">Full Stack Developer → Full Stack AI Developer</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Aspiring+AI+Engineer;Full+Stack+Developer+(MERN);Building+RAG+%26+LLM+Applications;388%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);Learning+AI+%26+LLM+Applications;Building+Full+Stack+%2B+AI+Software;388%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,30 +17,51 @@
 
 ## 👩‍💻 About Me
 
-B.Tech Computer Science & AI student at Noida Institute of Engineering & Technology. I build practical applications, solve DSA problems daily, and am working toward a career in **applied AI engineering**: shipping LLM-powered products rather than only training models.
+B.Tech Computer Science & AI student at Noida Institute of Engineering & Technology. I build full stack web applications and solve DSA problems daily. I'm now adding AI to my skill set so I can combine both and build smarter, more useful software.
 
-- 🤖 **Focus:** LLM APIs, RAG systems, NLP chatbots
-- 🌐 **Full stack:** MERN stack, Flask, Django
+- 🌐 **Main focus:** full stack development with the MERN stack
+- 🤖 **Learning:** AI and LLM-powered features to add into full stack apps
 - 🧠 **DSA:** 388+ LeetCode problems, solved daily
-- 🌱 **Learning now:** backend depth (Node.js, Express), LangChain, NLP
-- 🎯 **Goal:** AI Engineer role building production LLM applications
+- 🎯 **Goal:** become a Full Stack AI Developer
 
 ---
 
 ## ⚙️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,c,html,css,react,nodejs,express,mongodb,tailwind,flask,django,spring,git,github,vercel&perline=9" />
-</p>
+**Languages**
 
-| Area | Tools |
-|---|---|
-| **Languages** | Java, Python, JavaScript, C |
-| **Frontend** | React, Vite, Tailwind CSS, HTML, CSS |
-| **Backend** | Node.js, Express, Flask, Django, Spring (coursework) |
-| **AI / NLP** | LangChain, RAG, LLM APIs, HuggingFace, NLTK, TF-IDF |
-| **Deployment** | Vercel, Render |
-| **Core CS** | Data Structures, Algorithms, OOP, DBMS |
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**Tools & Deployment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+**Currently Learning (AI)**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NLTK](https://img.shields.io/badge/NLP-NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -99,15 +122,17 @@ Full CRUD task management app with deployment setup (Gunicorn, WhiteNoise, Rende
 - ✅ Backend basics: Node.js, Express
 - 🔄 MERN stack mastery (in progress)
 - 🔄 NLP fundamentals (in progress)
-- 🔜 LangChain and RAG systems
-- 🔜 LLM-powered full-stack project, deployed on free tiers
+- 🔜 Adding LLM features (LangChain, RAG) into full stack apps
+- 🔜 A full stack + AI project, deployed on free tiers
 
 ---
 
-## 🔍 Open To
+## 📬 Connect With Me
 
-Internships and entry-level roles in **AI engineering, full-stack development, and software engineering**.
-📧 kajalmishra1676@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/kajal-mishra1"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kajalmishra1676@gmail.com"><img src="https://img.shields.io/badge/Email-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
