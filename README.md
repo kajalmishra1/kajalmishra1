@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Kajal Mishra 👋</h1>
 
-<h3 align="center">Full Stack Developer → Full Stack AI Developer</h3>
+<h2 align="center">Full Stack AI Developer</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);Learning+AI+%26+LLM+Applications;Building+Full+Stack+%2B+AI+Software;388%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+AI+Developer;MERN+Stack+%2B+AI+Applications;Building+Smart+Full+Stack+Software;388%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,12 +17,12 @@
 
 ## 👩‍💻 About Me
 
-B.Tech Computer Science & AI student at Noida Institute of Engineering & Technology. I build full stack web applications and solve DSA problems daily. I'm now adding AI to my skill set so I can combine both and build smarter, more useful software.
+B.Tech Computer Science & AI student at Noida Institute of Engineering & Technology. I build full stack web applications and solve DSA problems daily. I'm adding AI to my skill set so I can combine both and build smarter, more useful software.
 
 - 🌐 **Main focus:** full stack development with the MERN stack
 - 🤖 **Learning:** AI and LLM-powered features to add into full stack apps
 - 🧠 **DSA:** 388+ LeetCode problems, solved daily
-- 🎯 **Goal:** become a Full Stack AI Developer
+- 🎯 **Goal:** Full Stack AI Developer
 
 ---
 
@@ -37,6 +37,7 @@ B.Tech Computer Science & AI student at Noida Institute of Engineering & Technol
 
 **Frontend**
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
