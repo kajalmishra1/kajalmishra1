@@ -2,10 +2,10 @@
 
 <h2 align="center">Full Stack AI Developer</h2>
 
-<p align="center"><i>Building full stack applications today, and adding AI to make them smarter tomorrow.</i></p>
+<p align="center"><i>Full stack developer building modern web applications and integrating AI to create intelligent, user-focused software.</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+AI+Developer;MERN+Stack+%2B+AI+Applications;Building+Smart+Full+Stack+Software;388%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=850&height=40&lines=Full+Stack+AI+Developer;Building+Modern+Web+Applications+with+MERN;Integrating+AI+into+Full+Stack+Products;Designing+Clean+Responsive+User+Interfaces;Committed+to+Continuous+Learning+and+Craft;Goal%3A+Deliver+Intelligent+User-Focused+Software;Disciplined+Problem+Solving+%7C+388%2B+LeetCode+Solved" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,25 +25,6 @@ B.Tech Computer Science & AI student at Noida Institute of Engineering & Technol
 - 🤖 **Learning:** AI and LLM-powered features to add into full stack apps
 - 🧠 **DSA:** 388+ LeetCode problems, solved daily
 - 🎯 **Goal:** Full Stack AI Developer
-
----
-
-## 💡 What I'm Building & Where I'm Headed
-
-**How I build:** I start with a clean, mobile-first interface (React + Tailwind CSS), keep dependencies minimal, and connect it to a Node.js and Express backend. I deploy on free tiers (Vercel, Render) so every project is live and demoable, not just code in a repo.
-
-**Where AI comes in:** I'm learning to add intelligence to full stack apps, such as chatbots, NLP, and LLM features, so the software I build can understand users instead of only storing data. My first steps were the translation app and FAQ chatbot from my internship.
-
-**What I enjoy:**
-- 🎨 Designing clean, good-looking interfaces that work well on phones
-- 🛠️ Learning by building real, working projects instead of only watching tutorials
-- 🧩 Solving DSA problems every day and staying consistent
-- 🚀 Shipping projects that people can open and try in a browser
-
-**My goals:**
-- Build and deploy a full stack + AI project with LLM features (LangChain, RAG)
-- Keep growing my MERN stack depth and backend skills
-- Become a Full Stack AI Developer who builds intelligent, practical software
 
 ---
 
@@ -116,13 +97,6 @@ CRUD app to create, view, update, and delete tasks. Built to practice Node.js an
 
 ---
 
-## 💼 Experience
-
-**AI Virtual Internship, CodeAlpha** (June to July 2026)
-- Built **UniVoice**, a multilingual translation web app (React + Node.js)
-- Built **OrderBuddy**, an NLP chatbot using TF-IDF and cosine similarity
-
----
 
 ## 🏆 Coding Profiles
 
