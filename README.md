@@ -49,11 +49,20 @@ B.Tech Computer Science & AI student at Noida Institute of Engineering & Technol
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools & Deployment**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
@@ -61,7 +70,7 @@ B.Tech Computer Science & AI student at Noida Institute of Engineering & Technol
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![NLTK](https://img.shields.io/badge/NLP-NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -96,20 +105,15 @@ Full CRUD task management app with deployment setup (Gunicorn, WhiteNoise, Rende
 ## 🏆 Coding Profiles
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/kajallmishra_?theme=dark&font=baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/kajallmishra_?theme=dark&font=baloo&ext=heatmap" alt="LeetCode stats" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kajalmishra1&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajalmishra1&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=kajalmishra1&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kajalmishra1&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kajalmishra1&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://ghchart.rshah.org/6C63FF/kajalmishra1" alt="GitHub contributions" width="95%" />
 </p>
 
 📂 **DSA practice repo:** [dsa-leetcode-solutions](https://github.com/kajalmishra1/dsa-leetcode-solutions)
